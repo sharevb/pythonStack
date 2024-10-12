@@ -1,0 +1,19 @@
+{
+  "name": "pythonstack.js",
+  "version": "1.0.2",
+  "description": "A simple and easy library for highlighting Python stack traces",
+  "main": "pythonStack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharevb/pythonStack.git"
+  },
+  "author": "ShareVB",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sharevb/pythonStack/issues"
+  },
+  "homepage": "https://github.com/sharevb/pythonStack#readme"
+}
